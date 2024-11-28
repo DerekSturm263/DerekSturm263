@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello (world)!
+
+I'm Derek, a programmer/teacher from Everett, hoping to make a difference in the world. Here, you can find some of my games, Discord bots, Minecraft mods (coming soon), and more! Check out the pinned repositories to learn more about my most important projects at the moment and shoot me an email if you wanna talk.
 
 <!--
 **DerekSturm263/DerekSturm263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
